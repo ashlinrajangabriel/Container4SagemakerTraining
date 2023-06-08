@@ -1,0 +1,15 @@
+boto3
+botocore
+Flask
+gunicorn
+model-archiver
+pandas
+numpy
+python-dateutil
+xgboost
+scikit-learn
+scipy
+Werkzeug
+setuptools
+wheel
+sagemaker-training

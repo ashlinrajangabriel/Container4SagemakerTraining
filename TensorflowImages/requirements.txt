@@ -1,0 +1,43 @@
+# TensorFlow and machine learning essentials
+tensorflow==2.11.1
+scikit-learn
+pandas
+numpy
+matplotlib
+
+# NLP libraries
+nltk
+spacy
+sentence-transformers
+transformers
+bertopic[all]
+umap-learn
+
+# Visualization libraries
+matplotlib
+seaborn
+plotly
+
+# Recommender system libraries
+lightfm
+tensorflow-recommenders
+
+# Gradient boosting libraries
+XGBoost
+LightGBM
+CatBoost
+
+# Statistical modeling libraries
+Statsmodels
+scipy
+wheel
+
+# Other dependencies
+Werkzeug
+setuptools
+python-dateutil
+model-archiver
+gunicorn
+Flask
+botocore
+boto3
